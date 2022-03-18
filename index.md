@@ -1,37 +1,46 @@
 ## Welcome to GitHub Pages
+<!-- - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+ # Hola Compañeros Desarrolladores 👋
 
-You can use the [editor on GitHub](https://github.com/21006263/Portafolio-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<div align="right">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Henry Moreno
+---
+---
+</div>
 
-```markdown
-Syntax highlighted code block
+<img width="400" height="auto" src="./logo/Henry.jpg" align="right"/>
+<p align="justify">   
+Hola! Soy un desarrollador full-stack 
+que busca hacer sus primeros pasos en el munndo It,
+También colaboro en proyectos como Freelance FullStack.
+Estoy más orientado al Frontend, pero también hago Backend.
+gracias por tomarte el tiempo de ver 
+mi perfil de Github 😄 
 
-# Header 1
-## Header 2
-### Header 3
+- 🔭 Actualmente me encuentro conociendo nuevas tecnologias.
 
-- Bulleted
-- List
+- 🌱 Me encuentro en busqueda laboral activa.
 
-1. Numbered
-2. List
+- 👯 Busco colaborar en Proyectos, Trabajos en la industria IT, Satrtups.
 
-**Bold** and _Italic_ and `Code` text
+- 💬 Me gusta la programacion, y la ingenieria de sistemas.
+</p>
 
-[Link](url) and ![Image](src)
-```
+****
+## Medios de contacto 👋
+[<img width= '64px' height="64" align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>](https://www.linkedin.com/in/henry-moreno-gs/)
+----
+<a href="https://api.whatsapp.com/send?phone=584145888298&text=Hola buen dia!!" target="_blank">
+ <img width="64" height="64" src="./logo/whatsapp.png"/></a>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/21006263/Portafolio-app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!-- link de redesde sociales -->
